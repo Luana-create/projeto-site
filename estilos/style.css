@@ -4,12 +4,12 @@
 }
 
 body {
-    background-color: rgb(108, 9, 201);
+    background-color: rgb(203, 172, 231);
 }
 
 main {
     background-color: white;
-    width: 600px;
+    width: 1000px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0.473);
